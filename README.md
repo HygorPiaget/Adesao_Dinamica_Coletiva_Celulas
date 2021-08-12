@@ -11,4 +11,4 @@
 3. Para executar a simulação da Dinâmica Molecular, você primeiro precisa fornecer um conjunto de parâmetros usando o arquivo **data.txt**:
     - Primeira linha: taxa de proliferação <img src = "https://render.githubusercontent.com/render/math?math=\lambda">;
     - Segunda linha: intensidade de adesão <img src = "https://render.githubusercontent.com/render/math?math=\tau">;
-    - Terceira linha: semente, semente usada para o gerador de números aleatórios.
+    - Terceira linha: semente usada para o gerador de números aleatórios.
