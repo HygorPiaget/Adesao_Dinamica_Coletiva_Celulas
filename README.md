@@ -1,7 +1,7 @@
 # Combinando experimentos e modelagem in silico para inferir o papel da adesão e proliferação na dinâmica coletiva de células
 
 
-### Este é o repositório de todos os dados e códigos utilizados no artigo [Melo, HPM, Maia, FR, Nunes, AS, Reis, RL, Oliveira, JM, e Araújo, NA. "Combining experiments and in silico modeling to infer the role of adhesion and proliferation on the collective dynamics of cells." bioRxiv (2021)] (https://www.biorxiv.org/content/10.1101/2021.03.29.437400v1.abstract)
+### Este é o repositório de todos os dados e códigos utilizados no artigo [Melo, HPM, Maia, FR, Nunes, AS, Reis, RL, Oliveira, JM, e Araújo, NA. "Combining experiments and in silico modeling to infer the role of adhesion and proliferation on the collective dynamics of cells." bioRxiv (2021)](https://www.biorxiv.org/content/10.1101/2021.03.29.437400v1.abstract)
 
 ## Se você usar qualquer dado ou código, considere citar o paper.
 
